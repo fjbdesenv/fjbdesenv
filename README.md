@@ -4,3 +4,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fjbdesenv&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjbdesenv&show_icons=true&theme=radical)
+
+## Repositórios
+<a href="https://github.com/fjbdesenv/Weather">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fjbdesenv&repo=Weather" />
+</a>
+
+<a href="https://github.com/fjbdesenv/MercadoFlix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fjbdesenv&repo=MercadoFlix" />
+</a>
