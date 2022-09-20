@@ -7,9 +7,9 @@
 
 ## Repositórios
 <a href="https://github.com/fjbdesenv/Weather">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fjbdesenv&repo=Weather" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fjbdesenv&repo=Weather&theme=radical" />
 </a>
 
 <a href="https://github.com/fjbdesenv/MercadoFlix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fjbdesenv&repo=MercadoFlix" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fjbdesenv&repo=MercadoFlix&theme=radical" />
 </a>
