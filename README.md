@@ -55,15 +55,30 @@
 <p>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-    <a href="#"><img alt="Nest.js" src="https://img.shields.io/badge/Nest.js-0081CB.svg?logo=nest&logoColor=white"></a>
+    <a href="#"><img alt="Nest.js" src="https://img.shields.io/badge/Nest.js-0081CB.svg?logo=nestjs&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/Angular-dd232a.svg?logo=angular&logoColor=%FF61DAFB&logoColor=white"></a>
+    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-dd232a.svg?logo=angular&logoColor=%FF61DAFB&logoColor=white"></a>
 </p>
 
 ### 🗄️ &nbsp;Banco de Dados e Hospesagem em nuvem:</h3>
 <p> 
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-17C7D5.svg?logo=netlify&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-438998.svg?logo=amazonaws&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+</p>
+
+### 💻 Software e Ferramentas
+
+<p>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-1980C8.svg?logo=bitbucket&logoColor=white"></a>
+    <a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-9821A2?logo=insomnia&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-EEEEEE?logo=postman&logoColor=red"></a>
+    <a href="#"><img alt="Apache NetBeans" src="https://img.shields.io/badge/Apache%20NetBeans-049783.svg?logo=apachenetbeanside&logoColor=black"></a>
+    <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellijidea&logoColor=yellow"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
