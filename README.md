@@ -1,9 +1,11 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Fábio%20Júnior%20Barbosa;Full-Stack%20Web%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Fábio%20Júnior%20Barbosa;Full-Stack%20Web%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000">
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fjbdesenv&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjbdesenv&show_icons=true&theme=radical)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=fjbdesenv&show_icons=true&theme=radical" alt="GitHub Estrelas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjbdesenv&layout=compact&theme=radical" alt="Top Linguagens" />
+</p>
 
 ## Repositórios
 <a href="https://github.com/fjbdesenv/Weather">
@@ -71,7 +73,6 @@
 </p>
 
 ### 💻 Software e Ferramentas
-
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white"></a>
