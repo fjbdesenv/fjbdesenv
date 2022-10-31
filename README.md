@@ -57,9 +57,8 @@
 <p>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-    <a href="#"><img alt="Nest.js" src="https://img.shields.io/badge/Nest.js-0081CB.svg?logo=nestjs&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB&logoColor=white"></a>
-    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-dd232a.svg?logo=angular&logoColor=%FF61DAFB&logoColor=white"></a>
+    <a href="#"><img alt="Vue" src="https://img.shields.io/badge/Vue-000000.svg?logo=vue.js"></a>
 </p>
 
 ### 🗄️ &nbsp;Banco de Dados e Hospesagem em nuvem:</h3>
@@ -67,8 +66,6 @@
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-17C7D5.svg?logo=netlify&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-438998.svg?logo=amazonaws&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 </p>
 
